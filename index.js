@@ -774,6 +774,7 @@ for(let i=0;i<7;i++){
     post.push(cs[i]);
     post.push(smartphones[i]);
     post.push(apple[i]);
+    post.push(software[i]);
 }
 for(let i=0;i<home.length;i++){
     post.push(home[i]);
